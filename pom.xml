@@ -1,5 +1,6 @@
 
 <project>
+	<name>This change made in master branch</name>
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
